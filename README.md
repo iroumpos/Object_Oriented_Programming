@@ -1,6 +1,6 @@
 # Object_Oriented_Programming
 
-4 assignments in Java and C++ \newline
+4 assignments in Java and C++ 
 
 1. Arithmetic Calculator in Java
 2. Min-Max Algorithnm in Java
